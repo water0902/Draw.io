@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-21T09:11:04.908Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="zdl_1TIH0hF1BCzw9qki" version="16.4.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-21T09:14:36.424Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="Js2IV6KSB4Zv-s5KYAXd" version="16.4.3" type="github">
   <diagram id="CcnGfPDEdtjwZ391O9cr" name="第 1 页">
     <mxGraphModel dx="1346" dy="733" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,7 +11,7 @@
           <mxGeometry x="50" y="240" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HOt7yasxgMVwdglPWZIX-3" value="线下输出" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="350" width="60" height="20" as="geometry" />
+          <mxGeometry x="140" y="400" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HOt7yasxgMVwdglPWZIX-4" value="视觉设计" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="60" height="20" as="geometry" />
@@ -26,25 +26,37 @@
           <mxGeometry x="230" y="280" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HOt7yasxgMVwdglPWZIX-8" value="线上输出" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="510" width="60" height="20" as="geometry" />
+          <mxGeometry x="140" y="560" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HOt7yasxgMVwdglPWZIX-9" value="印刷装订" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="350" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="HOt7yasxgMVwdglPWZIX-10" value="喷印制作" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="400" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="HOt7yasxgMVwdglPWZIX-10" value="喷印制作" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="60" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="HOt7yasxgMVwdglPWZIX-12" value="发光" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="380" width="40" height="20" as="geometry" />
+          <mxGeometry x="330" y="470" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HOt7yasxgMVwdglPWZIX-13" value="不发光" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="330" y="410" width="50" height="20" as="geometry" />
+          <mxGeometry x="330" y="500" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HOt7yasxgMVwdglPWZIX-14" value="阅读型版面" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="170" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="HOt7yasxgMVwdglPWZIX-15" value="观赏型版面" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HOt7yasxgMVwdglPWZIX-16" value="装帧工艺" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="420" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HOt7yasxgMVwdglPWZIX-17" value="印刷工艺" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="370" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HOt7yasxgMVwdglPWZIX-18" value="烫金/烫银/闪光，凹印，凸印，专色印，四色印" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="370" width="260" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="HOt7yasxgMVwdglPWZIX-19" value="骑马钉，线装，胶装，圆环穿孔" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="180" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
