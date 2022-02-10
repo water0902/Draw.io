@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-10T06:35:24.332Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="9A2oVHp0TprMbEch4M5g" version="16.4.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-10T06:35:56.078Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.69 Safari/537.36" etag="zQdpMNAPgwJqsQ5fCjrr" version="16.4.5" type="github">
   <diagram id="KS_B6hF460OYptntkMVr" name="第 1 页">
     <mxGraphModel dx="1422" dy="762" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -11,85 +11,64 @@
           <mxGeometry y="350" width="470" height="80" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-3" value="阅读型字形" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="860" width="80" height="20" as="geometry" />
+          <mxGeometry x="120" y="600" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-4" value="展示型字形" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1170" width="80" height="20" as="geometry" />
+          <mxGeometry x="120" y="910" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-5" value="图标型字形" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="1400" width="80" height="20" as="geometry" />
+          <mxGeometry x="120" y="1140" width="80" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-6" value="传统型字形（旧式风格衬线、人文主义无衬线）" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="900" width="270" height="20" as="geometry" />
+          <mxGeometry x="300" y="640" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-7" value="中间型字形（过渡主义衬线、现代主义无衬线）" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="940" width="270" height="20" as="geometry" />
+          <mxGeometry x="300" y="680" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-8" value="现代型字形（理想主义衬线、几何主义无衬线）" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="980" width="270" height="20" as="geometry" />
+          <mxGeometry x="300" y="720" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-9" value="方块字" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1130" width="50" height="20" as="geometry" />
+          <mxGeometry x="220" y="870" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-10" value="拉丁字" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1190" width="50" height="20" as="geometry" />
+          <mxGeometry x="220" y="930" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-11" value="甲骨文，篆书，隶书，楷书，行草" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1120" width="200" height="20" as="geometry" />
+          <mxGeometry x="300" y="860" width="200" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-12" value="书法字，艺术字" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1140" width="100" height="20" as="geometry" />
+          <mxGeometry x="300" y="880" width="100" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-13" value="拉丁字母前身" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1180" width="90" height="20" as="geometry" />
+          <mxGeometry x="300" y="920" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-14" value="拉丁字母效果字，海报体，图形字，手写体，装饰体" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="220" y="1200" width="290" height="20" as="geometry" />
+          <mxGeometry x="300" y="940" width="290" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-15" value="古代字形，契形字，玛雅字及历史中出现的各种文字。" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="140" y="1250" width="300" height="20" as="geometry" />
+          <mxGeometry x="220" y="990" width="300" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XAXs40sBKJw4HJyEnmTN-16" value="人物，图标，动物，天气，玩具" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="150" y="1400" width="180" height="20" as="geometry" />
+          <mxGeometry x="230" y="1140" width="180" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0uFxwlarzG4lLLpgNVjS-1" value="字体文件" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="565" width="60" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0uFxwlarzG4lLLpgNVjS-2" value="阅读型" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="60" y="610" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0uFxwlarzG4lLLpgNVjS-3" value="观看型" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="210" y="620" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0uFxwlarzG4lLLpgNVjS-4" value="图形类" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="620" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0uFxwlarzG4lLLpgNVjS-5" value="无衬线" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="10" y="640" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0uFxwlarzG4lLLpgNVjS-6" value="阅读型" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="600" y="575" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0uFxwlarzG4lLLpgNVjS-7" value="阅读型" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="730" y="575" width="50" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="0uFxwlarzG4lLLpgNVjS-8" value="衬线体" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="90" y="640" width="50" height="20" as="geometry" />
+          <mxGeometry x="680" y="260" width="60" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0uFxwlarzG4lLLpgNVjS-12" value="传统型字形（旧式风格衬线、人文主义无衬线）" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="740" width="270" height="20" as="geometry" />
+          <mxGeometry x="300" y="480" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0uFxwlarzG4lLLpgNVjS-13" value="中间型字形（过渡主义衬线、现代主义无衬线）" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="780" width="270" height="20" as="geometry" />
+          <mxGeometry x="300" y="520" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0uFxwlarzG4lLLpgNVjS-14" value="现代型字形（理想主义衬线、几何主义无衬线）" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="220" y="820" width="270" height="20" as="geometry" />
+          <mxGeometry x="300" y="560" width="270" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0uFxwlarzG4lLLpgNVjS-15" value="无衬线" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="940" width="50" height="20" as="geometry" />
+          <mxGeometry x="220" y="680" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="0uFxwlarzG4lLLpgNVjS-16" value="无衬线" style="text;html=1;resizable=0;autosize=1;align=left;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="780" width="50" height="20" as="geometry" />
+          <mxGeometry x="220" y="520" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
